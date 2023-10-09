@@ -1,0 +1,3 @@
+.vsco*
+!.vscode/settings.json
+**.md
