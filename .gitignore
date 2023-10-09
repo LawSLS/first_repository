@@ -1,3 +1,8 @@
 .vsco*
 !.vscode/settings.json
 **.md
+**.log
+node_modules/**
+**.tmp
+data/**
+!data/History
